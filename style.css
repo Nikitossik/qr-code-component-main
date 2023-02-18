@@ -47,6 +47,8 @@ body {
 
 .qr-card__image {
     margin-bottom: 1.5rem;
+    border-radius: 0.625rem;
+    overflow: hidden;
 }
 
 .qr-card__title {
